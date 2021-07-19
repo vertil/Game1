@@ -23,7 +23,10 @@ AIController босса бота:
 [Level blueprint](https://blueprintue.com/blueprint/481ynb4o/)
 
 Демонстрационный геймплей:
-[![](https://youtu.be/qlWDU-fsoro)]
+
+[![Gameplay](http://img.youtube.com/vi/qlWDU-fsoro/0.jpg)](https://youtu.be/qlWDU-fsoro)
+
+
 
 Скриншоты локации:
 ![](https://github.com/vertil/Game1/blob/main/screenshoots/ScreenShot00001.png)
