@@ -1,5 +1,5 @@
 # testgame
-В процессе разработки
+In progress
 Цель игры - разместить объекты в определенных местах и выйти с локации.
 
 На локации находятся боты 2ух видов: обычные и боссы. Обычные боты - патрулируют локацию и в случае обнаружения игрока, направляются к боссу(который закреплен за этим обычным ботом), чтобы передать информацию, где он увидел игрока.
@@ -23,13 +23,13 @@ AIController босса бота:
 Логика уровня:
 [Level blueprint](https://blueprintue.com/blueprint/481ynb4o/)
 
-Демонстрационный геймплей:
+Gameplay demo:
 
 [![Gameplay](http://img.youtube.com/vi/qlWDU-fsoro/0.jpg)](https://youtu.be/qlWDU-fsoro)
 
 
 
-Скриншоты локации:
+Screenshoots:
 ![](https://github.com/vertil/Game1/blob/main/screenshoots/ScreenShot00001.png)
 ![](https://github.com/vertil/Game1/blob/main/screenshoots/ScreenShot00002.png)
 ![](https://github.com/vertil/Game1/blob/main/screenshoots/ScreenShot00003.png)
