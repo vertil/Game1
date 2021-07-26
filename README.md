@@ -1,26 +1,26 @@
 # testgame
 In progress
-Цель игры - разместить объекты в определенных местах и выйти с локации.
+Objective: place objects in certain positions and leave the location.
 
-На локации находятся боты 2ух видов: обычные и боссы. Обычные боты - патрулируют локацию и в случае обнаружения игрока, направляются к боссу(который закреплен за этим обычным ботом), чтобы передать информацию, где он увидел игрока.
+There are 2 types of bots at the location: the simple ones and the bosses. Simple bots patrol the location and go to the boss (which is assigned to this bot) if they find the player, to to tell the boss where is the player.
 
-Модели гаражей сделаны собственноручно в Blender.
+I made Garage models on my own in Blender.
 
-Логика ботов построена через blueprint класса AIController, а не через behavior tree.
+Bots logic is made with the help of blueprint class AIController, not with behavior tree.
 
-Blueprint обычного бота:
+Simple bot blueprint:
 [MyAi](https://blueprintue.com/blueprint/j3esf2yz/)
 
-AIController обычного бота:
+Simple bot AIController:
 [MyAiController](https://blueprintue.com/blueprint/rfqcts5x/)
 
-Blueprint босса бота:
+Boss blueprint:
 [MyBoss](https://blueprintue.com/blueprint/t2wl3sla/)
 
-AIController босса бота:
+Boss AIController:
 [MyBossController](https://blueprintue.com/blueprint/m076vkkw/)
 
-Логика уровня:
+Level blueprint:
 [Level blueprint](https://blueprintue.com/blueprint/481ynb4o/)
 
 Gameplay demo:
