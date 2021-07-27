@@ -25,7 +25,7 @@ Level blueprint:
 
 Gameplay demo:
 
-[![Gameplay](http://img.youtube.com/vi/qlWDU-fsoro/0.jpg)](https://youtu.be/qlWDU-fsoro)
+[![Gameplay](http://img.youtube.com/vi/_vrv4scY5gM/0.jpg)](https://youtu.be/_vrv4scY5gM)
 
 
 
