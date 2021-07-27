@@ -30,9 +30,9 @@ Gameplay demo:
 
 
 Screenshoots:
-![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00001.png)
-![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00002.png)
-![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00003.png)
-![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00004.png)
-![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00005.png)
-![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00006.png)
+![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00007.png)
+![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00008.png)
+![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00009.png)
+![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00010.png)
+![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00011.png)
+![](https://github.com/vertil/Game1/blob/main/dusha/Saved/Screenshots/Windows/ScreenShot00012.png)
